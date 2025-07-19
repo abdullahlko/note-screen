@@ -36,7 +36,7 @@ function InputArea(props) {
           <input
             className="w-full border-none p-1 outline-none text-[1.2em] font-inherit resize-none"
             name="title"
-            onChange={handleChange}
+            onFocus={handleChange}
             value={note.title}
             placeholder="Title"
           />
