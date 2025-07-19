@@ -1,4 +1,4 @@
-# ✏️ noteScreen
+# ✏️ NoteScreen
 
 A minimal and responsive **React-based Todo app** to organize your daily tasks. Built with clean UI, real-time editing, and persistent browser storage.
 
