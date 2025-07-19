@@ -1,4 +1,4 @@
-# ✏️ TodoFlow
+# ✏️ noteScreen
 
 A minimal and responsive **React-based Todo app** to organize your daily tasks. Built with clean UI, real-time editing, and persistent browser storage.
 
@@ -18,7 +18,7 @@ A minimal and responsive **React-based Todo app** to organize your daily tasks. 
 
 ### 🔍 Preview
 
-> _Overview of the TodoFlow UI_
+> _Overview of the noteScreen UI_
 
 ![Preview](./public/preview1.png)
 
