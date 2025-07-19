@@ -34,11 +34,17 @@ A minimal and responsive **React-based Todo app** to organize your daily tasks. 
 
 ![Edit](./public/preview3.png)
 
+### ✅ Mark Complete
+
+> _Marking a todo as completed (checkbox disables editing)_
+
+![Edit](./public/preview4.png)
+
 ### 🗑️ Delete Task
 
 > _Delete confirmation modal before removing a task_
 
-![Delete](./public/preview4.png)
+![Delete](./public/preview5.png)
 
 ---
 
