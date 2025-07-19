@@ -30,7 +30,7 @@ function InputArea(props) {
   }
 
   return (
-    <div className="mb-10">
+    <div className="mb-10 px-4 sm:px-0">
       <form className="relative sm:w-[480px] mt-[30px] mx-auto mb-[20px] bg-white p-[15px] rounded-[7px] shadow-[0_1px_5px_rgb(138,137,137)]">
         {isExpanded && (
           <input
